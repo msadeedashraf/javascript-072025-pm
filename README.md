@@ -1,5 +1,9 @@
 ## Learning Javascript
 
+### Learning w3School 
+[Javascript W3School](https://www.w3schools.com/js/default.asp)
+[Javascript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ### Executing the javascript in the browser console window
 
 ![Browser console](/Assets/javascript_in_console.png)
@@ -13,3 +17,4 @@
 ```
 > node -v
 ```
+
