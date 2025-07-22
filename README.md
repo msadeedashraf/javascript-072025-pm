@@ -1,9 +1,5 @@
 ### Welcome to learning Javascript
 
-### Learning w3School 
-[Javascript W3School](https://www.w3schools.com/js/default.asp)
-[Javascript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 ### Learning Resources
 
 [Javascript info](https://javascript.info/)
