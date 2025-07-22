@@ -6,4 +6,10 @@
 
 ### Installing [Node](https://nodejs.org/en/download)
 
-[Installing Node](https://nodejs.org/dist/v22.17.1/node-v22.17.1-x64.msi)
+[Download Node](https://nodejs.org/dist/v22.17.1/node-v22.17.1-x64.msi)
+
+- Checking the node installation, open the `CMD`
+  
+```
+> node -v
+```
