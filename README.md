@@ -23,7 +23,7 @@
 > node -v
 ```
 
-- Executing Javascript using Node.
+- Executing Javascript using Node. [CLI Cheat Sheet](/CLI_Commands_cheat_Sheet.md)
 ```
 > cd [folder path]
 > dir
