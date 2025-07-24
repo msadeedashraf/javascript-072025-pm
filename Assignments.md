@@ -10,6 +10,7 @@ Declaration vs Assignment vs Initialization
 ### Assignment # 4
 Create a HTML page link the script.js file 
 Change the text in a paragraph at the load and also using a button.
+Bring the date and time on the page when user Clicks the button.
 
 ### Assignment # 5
 Tip Calculator ![Tip Calculator](/assets/projects/tip-calculator.png)

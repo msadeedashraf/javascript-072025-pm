@@ -1,0 +1,1 @@
+alert("Checking my js page")

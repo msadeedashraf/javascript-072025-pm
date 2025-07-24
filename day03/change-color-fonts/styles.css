@@ -1,0 +1,45 @@
+h1
+{
+    color: blue;
+}
+
+#btnGreen{
+
+    border: none
+    ;
+    background-color: green;
+    height: 30px;
+    width: 70px;
+    border-radius: 8px;
+}
+
+.btn-green:hover{
+    background-color: rgb(148, 205, 148);
+}
+#btnBlue{
+
+    border: none
+    ;
+    background-color: Blue;
+    height: 30px;
+    width: 70px;
+    border-radius: 8px;
+}
+#btnRed{
+
+    border: none
+    ;
+    background-color: Red;
+    height: 30px;
+    width: 70px;
+    border-radius: 8px;
+}
+#btnYellow{
+
+    border: none
+    ;
+    background-color: Yellow;
+    height: 30px;
+    width: 70px;
+    border-radius: 8px;
+}
